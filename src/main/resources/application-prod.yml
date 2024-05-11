@@ -1,0 +1,5 @@
+db-config:
+  domain: db-news:5432
+  name: atenea_news
+  user: postgres
+  password: VA@Atenea2023
